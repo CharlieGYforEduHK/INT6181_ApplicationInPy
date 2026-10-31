@@ -1,0 +1,15 @@
+==================================================
+      EduTrack Learning Analytics Summary Report  
+==================================================
+Total Students Evaluated: 5
+Class Average Score:      70.58%
+Class Score Median:       73.30%
+Pass Rate:                80.0%
+Average Attendance:       85.8%
+Average Study Hours:      4.8 hrs/week
+--------------------------------------------------
+At-Risk Students Identified: 1
+--------------------------------------------------
+ID: S004 | Name: David | Overall: 48.0
+Reasons: Low overall score (48.0 < 50) | Low attendance (70.0% < 75%) | Low exam score (45.0 < 50)
+-

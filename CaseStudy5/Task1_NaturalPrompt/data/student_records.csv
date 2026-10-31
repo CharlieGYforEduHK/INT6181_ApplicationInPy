@@ -1,0 +1,6 @@
+student_id,name,subject,quiz_score,assignment_score,exam_score,attendance,study_hours
+S001,Alice,Python,82,75,88,95,6
+S002,Ben,Python,55,60,58,78,3
+S003,Carol,Python,91,89,94,98,8
+S004,David,Python,48,52,45,70,2
+S005,Emma,Python,73,78,70,88,5
